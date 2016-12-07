@@ -1,0 +1,8 @@
+¿Que es un commit?
+hace referencia a un conjunto de cambios que se podran guardar de forma permanente
+
+¿Que es un merge?
+se utiliza para incorporar los cambios de forma definitiva
+
+Diferencia entre pull y push
+pull se usa para jalar los cambio y subirlos al repositorio
